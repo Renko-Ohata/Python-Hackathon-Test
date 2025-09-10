@@ -23,5 +23,5 @@ print(get_greet())
 def add(a, b):
     return a + b
 
-result = add(5, 6)
+result = add(3, 4)
 print(result)
